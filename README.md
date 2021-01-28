@@ -16,7 +16,7 @@ Search, explore and download Lossless and Hi-Res music from [Qobuz](https://www.
 - Extended tags
 - And more
 
-## Getting starteD
+## GETTING STARTED
 
 > You'll need an **active subscription**
 
